@@ -1,1 +1,1 @@
-Hello everyone! This project called "Hello World" is a react application created during one of the courses of the "Explore React with Javascript" training from Alura. The idea of this project is to create a SPA that could serve as a small personal blog.
+Hello everyone! This project called "Olá Mundo" is a react application created during one of the courses of the "Explore React com JavaScript" training from Alura. The idea of this project is to create a SPA that could serve as a small personal blog.
